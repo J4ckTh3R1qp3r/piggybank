@@ -1,8 +1,8 @@
 {
     "manifest_version": 1,
     "name": "PiggyBank",
-    "description": "TON копилка",
-    "icon_url": "https://ton.org/img/ton_symbol.svg",
+    "description": "TON piggibank",
+    "icon_url": "https://cutlet.co/vite.svg",
     "url": "https://cutlet.co",
     "network": "mainnet"
   }
