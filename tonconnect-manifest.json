@@ -1,0 +1,9 @@
+{
+    "manifest_version": 1,
+    "name": "PiggyBank",
+    "description": "TON копилка",
+    "icon_url": "https://ton.org/img/ton_symbol.svg",
+    "url": "https://piggybank-web.vercel.app",
+    "network": "testnet"
+  }
+  
