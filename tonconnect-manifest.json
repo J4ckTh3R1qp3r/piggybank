@@ -4,6 +4,6 @@
     "description": "TON копилка",
     "icon_url": "https://ton.org/img/ton_symbol.svg",
     "url": "https://cutlet.co",
-    "network": "testnet"
+    "network": "mainnet"
   }
   
